@@ -21,3 +21,4 @@ Pushes the local repository back to the remote origin
   ##282  git checkout -b add-command-log
 Creates a new branch of the repository with the name add-command-log, and then switches to that branch
 
+###Things must break
